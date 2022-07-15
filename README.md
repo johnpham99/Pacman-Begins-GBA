@@ -10,7 +10,7 @@ This project uses:
  * GBA
 
 ## Screenshots
-<img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/1.png" width="250"><img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/2.png" width="250"><img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/3.png" width="250">
+<img src="https://github.com/johnpham99/Pacman-Begins-GBA/tree/main/Screenshots/1.png" width="250"><img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/2.png" width="250"><img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/3.png" width="250">
 
 ## Setup
 To run this project, launch Android Studio and run with a device api.
